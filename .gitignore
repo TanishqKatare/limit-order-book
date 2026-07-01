@@ -1,0 +1,28 @@
+# Build directories
+build/
+build-*/
+out/
+cmake-build-*/
+
+# Benchmark outputs
+bench_results.csv
+
+# Editor / IDE
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled binaries / objects
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.dll
+*.pdb
